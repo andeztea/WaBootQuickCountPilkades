@@ -1,0 +1,27 @@
+{
+  "name": "waboot",
+  "version": "1.0.0",
+  "description": "Ini adalah waboot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "asdasd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andez"
+  },
+  "keywords": [
+    "asdasdasdas"
+  ],
+  "author": "andeztea",
+  "license": "ISC"
+}
